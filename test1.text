@@ -1,4 +1,1800 @@
-test 1 dòng 1
-master dong 1
-nhanh 1 dong 1
-nhanh 1 dong 2
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://stunited.vn/xmlrpc.php">
+<title>ST United &#8211; United to grow up</title>
+<script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Roboto:100,300,400,500,700,900,100italic,300italic,400italic,500italic,700italic,900italic']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="ST United &raquo; Feed" href="https://stunited.vn/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ST United &raquo; Comments Feed" href="https://stunited.vn/comments/feed/" />
+<meta property='og:site_name' content='ST United' /><meta property='og:url' content='https://stunited.vn/' /><meta property='og:title' content='Homepage' /><meta property='og:type' content='article' /> <script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/stunited.vn\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://stunited.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://stunited.vn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://stunited.vn/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.0.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='bootstrap.min-css' href='https://stunited.vn/wp-content/themes/houzez/css/bootstrap.min.css?ver=3.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome.min-css' href='https://stunited.vn/wp-content/themes/houzez/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='leaflet-css' href='https://stunited.vn/wp-content/themes/houzez/css/leaflet.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='leafletMarkerCluster-css' href='https://stunited.vn/wp-content/themes/houzez/js/leafletCluster/MarkerCluster.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='leafletMarkerClusterDefault-css' href='https://stunited.vn/wp-content/themes/houzez/js/leafletCluster/MarkerCluster.Default.css?ver=1.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='houzez-all-css' href='https://stunited.vn/wp-content/themes/houzez/css/all.min.css?ver=1.8.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='houzez-main-css' href='https://stunited.vn/wp-content/themes/houzez/css/main.min.css?ver=1.8.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='houzez-style-css' href='https://stunited.vn/wp-content/themes/houzez/style.min.css?ver=1.8.2.1' type='text/css' media='all' />
+<style id='houzez-style-inline-css' type='text/css'>
+
+        .advance-search-header, 
+        .advanced-search-mobile, 
+        .advanced-search-mobile .single-search .form-control,
+        .search-expandable .advanced-search {
+            background-color: #ffffff;
+        }
+        .search-expand-btn {
+            background-color: #ff6e00;
+        }
+        .search-expand-btn {
+            color: #ffffff
+        }
+        .advance-search-header .houzez-theme-button,
+        .advanced-search-mobile .houzez-theme-button,
+        .splash-search .btn-secondary,
+        .advanced-search .btn-secondary,
+        .gform_button, 
+        .gform_wrapper .button, 
+        .gform_wrapper .gform_page_footer .button.gform_next_button {
+            color: #ffffff;
+            background-color: #ff6e00;
+            border: 1px solid #ff6e00;
+        }
+        .advance-search-header .houzez-theme-button:focus,
+        .advanced-search-mobile .houzez-theme-button:focus,
+        .advanced-search .btn-secondary:focus,
+        .splash-search .btn-secondary:focus,
+        .gform_wrapper .button:focus, 
+        .gform_wrapper .gform_page_footer .button.gform_next_button:focus {
+          color: #ffffff;
+          background-color: #e96603;
+          border: 1px solid #e96603;
+        }
+        .advance-search-header .houzez-theme-button:hover,
+        .advanced-search .btn-secondary:hover,
+        .advanced-search .btn-secondary:active,
+        .advanced-search .btn-secondary:active:hover,
+        .advanced-search .btn-secondary.active,
+        .advanced-search-mobile .houzez-theme-button:hover,
+        .splash-search .btn-secondary:hover,
+        .gform_wrapper .button:hover, 
+        .gform_wrapper .gform_page_footer .button.gform_next_button:hover,
+        .gform_wrapper .button:active, 
+        .gform_wrapper .gform_page_footer .button.gform_next_button:active {
+          color: #ffffff;
+          background-color: #e96603;
+          border: 1px solid #e96603;
+        }
+        .advance-search-header .houzez-theme-button:active,
+        .advanced-search .btn-secondary:active,
+        .advanced-search-mobile .houzez-theme-button:active,
+        .splash-search .btn-secondary:active {
+          color: #ffffff;
+          background-color: #e96603;
+          border: 1px solid #e96603;
+        }
+        .advanced-search .bootstrap-select .btn,
+        .advanced-search .bootstrap-select.open .btn,
+        .banner-search-main .dropdown-toggle,
+        .advanced-search .form-control,
+        .advanced-search-mobile .advance-fields .bootstrap-select .btn,
+        .advanced-search-mobile .advance-fields .bootstrap-select.open .btn,
+        .advanced-search-mobile .advance-fields .form-control {
+            background-color: #fff;
+            color: #959595;
+        }
+        .advanced-search .dropdown-toggle,
+        .advanced-search .form-control,
+        .advance-search-header .bootstrap-select .btn,
+        .advance-search-header .bootstrap-select .fave-load-more a,
+        .fave-load-more .advance-search-header .bootstrap-select a,
+        .advance-fields .form-control,
+        .advanced-search .btn-default.active:hover, .btn-default:active:hover, 
+        .advanced-search .open >.btn-default.dropdown-toggle:hover
+        .advanced-search .bootstrap-select .btn,
+        .advanced-search .bootstrap-select.open .btn,
+        .range-wrap {
+            border-width: 1px;
+            border-style: solid;
+            border-color: #cccccc;
+        }
+
+        .advanced-search .input-group .form-control,        
+        .search-long .search input,
+        .advanced-search .search-long .search,
+        .advanced-search .search-long .btn-group,
+        .advanced-search .search-long .advance-btn,
+        .input-group-addon {
+            border-color: #cccccc !important;
+        }
+        .advanced-search-mobile .advance-fields {
+            border-top: 1px solid #cccccc;
+        }
+        .advanced-search-mobile .single-search-wrap button {
+            color: #cccccc;
+        }
+
+        .advanced-search-mobile .advance-fields::after {
+            border-bottom-color: #cccccc;
+        }
+        .advance-btn.blue {
+            color: #ffffff;
+        }
+        .advance-btn.blue:hover,
+        .advance-btn.blue:focus {
+            color: #e96603;
+        }
+        .advanced-search .advance-btn {
+            color: #00AEEF;
+        }
+        .advanced-search .advance-btn:hover {
+            color:#00AEEF;
+        }
+        .advanced-search .advance-btn:focus,
+        .advanced-search .advance-btn.active {
+            color:#00AEEF;
+        }
+        .advanced-search .advance-fields,
+        .advanced-search .features-list label.title,
+        .advanced-search .features-list .checkbox-inline,
+        .advanced-search-mobile .advance-fields,
+        .advanced-search-mobile .features-list label.title,
+        .advanced-search-mobile .features-list .checkbox-inline,
+        .range-title,
+        .range-text,
+        .range-text p,
+        .min-price-range,
+        .max-price-range,
+        .advanced-search-mobile {
+            color: #000000;
+        }
+
+        .auto-complete {
+            background-color: #fff;
+        }
+        .auto-complete,
+        .auto-complete .media {
+            border-color: #ccc;
+        }
+        .bootstrap-select.btn-group .dropdown-menu li a:hover, 
+        .bootstrap-select.btn-group .dropdown-menu li a:focus, 
+        .bootstrap-select.btn-group .dropdown-menu li a:active {
+            background-color: rgba(0, 174, 239, 0.12);
+        }
+
+            
+        
+        #header-section .header-left {
+            width: 100%;
+        }
+        .header-section-4.nav-right .header-left {
+            padding-right: 0px;
+        }
+        .top-bar {
+            background-color: #000000;
+        }
+        .top-bar .top-nav > ul > li > a:hover,
+        .top-bar .top-nav > ul li.active > a,
+        .top-bar .top-nav > ul ul a:hover,
+        .top-contact a:hover,
+        .top-bar .dropdown-menu > li:hover,
+        .top-contact li .btn:hover {
+            color: rgba(0,174,239,0.75);
+        }
+        .top-contact a,
+        .top-contact li,
+        .top-contact li .btn,
+        .top-bar .top-nav > ul > li > a,
+        .top-bar .dropdown-menu {
+            color: #ffffff;
+            background-color: #000000;
+        }
+        .top-bar .mobile-nav .nav-trigger {
+            color: #FFFFFF;
+        }
+        
+        body {
+            background-color: #f5f5f5;
+        }
+        a,        
+        .blue,
+        .text-primary,
+        .btn-link,
+        .item-body h2,
+        .detail h3,
+        .breadcrumb li a,
+        .fave-load-more a,
+        .sort-tab .btn,
+        .sort-tab .fave-load-more a,
+        .fave-load-more .sort-tab a,
+        .pagination-main .pagination a,
+        .team-caption-after .team-name a:hover,
+        .team-caption-after .team-designation a:hover,
+        .agent-media .view,
+        .my-property-menu a.active,
+        .my-property-menu a:hover,
+        .search-panel .advance-trigger {        
+            color: #00AEEF;
+        }
+        .banner-caption h1,
+        .banner-caption h2  {
+            color: #ffffff;
+        }
+        .property-item h2 a,
+        .property-item .property-title a,
+        .widget .media-heading a {
+            color: #000000;
+        }
+        .property-item h2 a:hover,
+        .property-item .property-title a:hover,
+        .widget .media-heading a:hover {
+            color: #00AEEF;
+        }
+        .owl-theme .owl-nav [class*=owl-],        
+        .testimonial-carousel .owl-nav [class*=owl-]:hover,
+        .testimonial-carousel .owl-nav [class*=owl-]:focus,
+        .gallery-thumb .icon,
+        .share_tooltip {
+            background-color: #00AEEF;
+        }
+        #sidebar .widget_tag_cloud .tagcloud a,
+        .article-footer .meta-tags a,
+        .pagination-main .pagination li.active a,
+        .other-features .btn.btn-secondary,
+        .my-menu .active a,        
+        .houzez-module .module-title-nav .module-nav .btn,
+        .houzez-module .module-title-nav .module-nav .fave-load-more a,
+        .fave-load-more .houzez-module .module-title-nav .module-nav a {
+            color: #fff;
+            background-color: #00AEEF;
+            border: 1px solid #00AEEF;
+        }
+        .plan-tabs li.active {
+            box-shadow: inset 0 4px 0 #00AEEF;
+            border-top-color: #00AEEF;
+            background-color: #fff;
+            color: #00AEEF;
+        }
+        .btn-primary,        
+        .label-primary,
+        .scrolltop-btn {
+            color: #ffffff;
+            background-color: #00AEEF;
+            border-color: #00AEEF;
+        }
+        .btn-primary.btn-trans{
+            color: #00AEEF;
+        }
+        .header-section-2 .header-top-call {
+            color: #ffffff;
+            background-color: #00aeef;
+        }
+        .header-section-2 .avatar {
+            color: #ffffff;
+        }
+        @media (max-width: 991px) {
+            .header-section-2 .header-top,
+            .header-section-5 .header-top {
+                background-color: #00AEEF;
+            }
+        }
+        .modal-header,
+        .ui-slider-horizontal .ui-slider-range,
+        .ui-state-hover,
+        .ui-widget-content .ui-state-hover,
+        .ui-widget-header .ui-state-hover,
+        .ui-state-focus,
+        .ui-widget-content .ui-state-focus,
+        .ui-widget-header .ui-state-focus,
+        .list-loading-bar {
+            background-color: #00AEEF;
+            border-color: transparent;
+        }
+        .houzez-module .module-title-nav .module-nav .btn,
+        #save_as_draft,
+        #put_on_hold {
+            color: #00AEEF;
+            border: 1px solid #00AEEF;
+            background-color: transparent;
+        }
+        .fave-load-more a,
+        .fave-load-more a:hover {
+            border: 1px solid #00AEEF;
+        }
+        #transportation,
+        #supermarkets,
+        #schools,
+        #libraries,
+        #pharmacies,
+        #hospitals,
+        .pay-step-block.active span,
+        .loader-ripple div:nth-of-type(2){
+            border-color: #00AEEF;
+        }
+        .loader-ripple div:nth-of-type(1){
+            border-color: #FF6E00;
+        }
+        .detail-block .alert-info {
+            color: rgba(0,0,0,.85);
+            background-color: rgba(0,174,239,0.1);
+            border: 1px solid #00AEEF;
+        }
+        .houzez-taber-wrap .houzez-tabs li.active::before,
+        .houzez-taber-wrap .houzez-tabs li:hover::before,
+        .houzez-taber-wrap .houzez-tabs li:active::before,
+        .profile-tabs li:hover,
+        .steps-nav, .steps-progress-main .steps-progress span {
+            background-color: #00AEEF;
+        }
+        .btn-secondary,
+        .agent_contact_form.btn-secondary,
+         .form-media .wpcf7-submit,
+         .wpcf7-submit,
+         .dsidx-resp-area-submit input[type='submit']{
+            color: #fff;
+            background-color: #FF6E00;
+            border-color: #FF6E00;
+        }
+        .btn-secondary.btn-trans{
+            color: #FF6E00;
+        }
+        .item-thumb .label-featured, figure .label-featured, .carousel-module .carousel .item figure .label-featured {
+            background-color: #77c720;
+            color: #ffffff;
+        }
+        
+            a:hover,
+            a:focus,
+            a:active,
+            .blue:hover,
+            .btn-link:hover,
+            .breadcrumb li a:hover,
+            .pagination-main .pagination a:hover,
+            .vc_toggle_title h4:hover ,
+            .footer a:hover,
+            .impress-address:hover,
+            .agent-media .view:hover,
+            .my-property .dropdown-menu a:hover,
+            .article-detail .article-title a:hover,
+            .comments-block .article-title a:hover,
+            .detail-block .list-features a:hover{
+                color: rgba(0,174,239,0.75);
+                text-decoration: none;
+            }
+            
+            .detail-top .media-tabs a:hover span,
+            .header-section.slpash-header .header-right a.btn:hover,
+            .slpash-header.header-section-4 .header-right a.btn:hover,
+            .houzez-module .module-title-nav .module-nav .btn:hover,
+            .houzez-module .module-title-nav .module-nav .fave-load-more a:hover,
+            .fave-load-more .houzez-module .module-title-nav .module-nav a:hover,
+            .houzez-module .module-title-nav .module-nav .btn:focus,
+            .houzez-module .module-title-nav .module-nav .fave-load-more a:focus,
+            .fave-load-more .houzez-module .module-title-nav .module-nav a:focus{
+                color: #fff;
+                background-color: rgba(0,174,239,0.75);
+                border: 1px solid rgba(0,174,239,0.75);
+            }
+            .fave-load-more a:hover,
+            #sidebar .widget_tag_cloud .tagcloud a:hover,
+            .article-footer .meta-tags a:hover,
+            .other-features .btn.btn-secondary:hover,
+            .my-actions .action-btn:hover,
+            .my-actions .action-btn:focus,
+            .my-actions .action-btn:active,
+            .my-actions .open .action-btn{
+                background-color: rgba(0,174,239,0.75);
+                border-color: rgba(0,174,239,0.75);
+            }
+            .owl-theme .owl-nav [class*=owl-]:hover,
+            .owl-theme .owl-nav [class*=owl-]:focus,
+            .owl-theme .owl-nav [class*=owl-]:active,
+            .testimonial-carousel .owl-nav [class*=owl-]:hover,
+            .testimonial-carousel .owl-nav [class*=owl-]:focus{
+                border-color: rgba(0,174,239,0.75);
+            }
+            .owl-theme .owl-nav [class*=owl-]:hover,
+            .owl-theme .owl-nav [class*=owl-]:focus,
+            .owl-theme .owl-nav [class*=owl-]:active {
+                background-color: rgba(0,174,239,0.75);
+            }
+            .btn-primary:hover,
+            .btn-primary:focus,
+            .btn-primary:active,
+            .btn-primary.active,
+            .btn-primary:active:hover,
+            .btn-primary.btn-trans:hover,
+            .btn-primary.btn-trans:focus,
+            .btn-primary.btn-trans:active,
+            .btn-primary.btn-trans.active,
+            .btn-primary.btn-trans:active:hover,
+            .invoice-list .btn-invoice:hover,
+            #houzez-gmap-main .map-btn:hover,
+            .media-tabs-list li > a:hover,
+            .media-tabs-list li.active a,
+            .detail-bar .detail-tabs li:hover,
+            .actions li > span:hover,
+            .lightbox-arrow:hover,
+            .scrolltop-btn:hover {
+                background-color: rgba(0,174,239,0.75);
+                border-color: rgba(0,174,239,0.75);
+            }
+            .btn-secondary:hover,
+            .btn-secondary:focus,
+            .btn-secondary:active,
+            .btn-secondary.active,
+            .btn-secondary:active:hover,
+            .btn-secondary.btn-trans:hover,
+            .btn-secondary.btn-trans:focus,
+            .btn-secondary.btn-trans:active,
+            .btn-secondary.btn-trans.active,
+            .btn-secondary.btn-trans:active:hover,
+            .agent_contact_form.btn-secondary:hover,
+             .form-media .wpcf7-submit:hover,
+             .wpcf7-submit:hover,
+             .wpcf7-submit:focus,
+             .wpcf7-submit:active,
+             .dsidx-resp-area-submit input[type='submit']:hover,
+             .dsidx-resp-area-submit input[type='submit']:focus,
+             .dsidx-resp-area-submit input[type='submit']:active{
+                color: #fff;
+                background-color: rgba(255,110,0,0.75);
+                border-color: rgba(255,110,0,0.75);
+            }
+        .header-section {
+            background-color: #00AEEF;
+        }
+        .header-section .navi > ul > li > a {
+            color: #FFFFFF;
+            background-color: transparent;
+        }
+        .header-section .header-right .user a,
+        .header-section .header-right span {
+            color: #FFFFFF;
+        }
+            .header-section .navi > ul > li > a:hover {
+                color: rgba(255,255,255,1);
+                background-color: rgba(255,255,255,0.2);
+            }
+            .header-section .header-right .user a:hover,
+            .header-section .header-right span:hover {
+                color: rgba(255,255,255,1);
+            }
+        .header-section-3 .header-top {
+            background-color: #ffffff;
+        }
+        .header-section-3 .header-top-social a,
+        .header-section-3 .header-contact .contact-block .fa,
+        .header-section-3 .header-top .media-heading,
+        .header-contact .contact-block p{
+            color: #004274;
+        }
+        .header-contact .contact-block .fa {
+            color: #4cc6f4;
+        }
+        .header-section-3 .header-bottom {
+            background-color: #00AEEF;
+        }
+        .header-section-3 .navi > ul > li > a,
+        .header-section-3 .header-right .user a,
+        .header-section-3 .header-right span {
+            color: #ffffff;
+        }
+            .header-section-3 .navi > ul > li > a:hover,
+            .header-section-3 .navi > ul > li.active > a{
+                color: rgba(255,255,255,1);
+                background-color: rgba(255,255,255,0.2);
+            }
+            .header-section-3 .header-right .user a:hover,
+            .header-section-3 .header-right span:hover {
+                color: rgba(255,255,255,1);
+            }
+            .header-section-3 .navi > ul > li {
+                border-right: 1px solid rgba(255,255,255,0.2);
+            }
+            .header-section-3 .header-bottom {
+                border-top: 1px solid rgba(255,255,255,0.2);
+            }
+            .header-section-3 .navi > ul {
+                border-left: 1px solid rgba(255,255,255,0.2);
+            }
+        .header-section-2 .header-top, .header-section-5 .header-top {
+            background-color: #004272;
+        }
+        .header-section-2 .header-bottom, .header-section-5 .header-bottom {
+            background-color: #004272;
+            border-top: 1px solid #2a353d;
+            border-bottom: 1px solid #2a353d;
+        }
+        .header-section-2 .header-bottom .navi > ul > li, .header-section-5 .header-bottom .navi > ul > li {
+            border-right: 1px solid #2a353d;
+        }
+        .header-section-2 .header-right {
+            border-left: 1px solid #2a353d;
+        }
+        .header-section-2 .navi > ul > li > a,
+        .header-section-2 .header-right .user a,
+         .header-section-2 .header-right span,
+         .header-section-5 .navi > ul > li > a,
+        .header-section-5 .header-right .user a,
+         .header-section-5 .header-right span {
+            color: #FFFFFF;
+        }
+        .header-section-5 .header-top-social li a, header-section-3 .header-top-social li a {
+            color: #FFFFFF;
+        }
+        
+            .header-section-2 .navi > ul > li > a:hover,
+             .header-section-2 .navi > ul > li.active > a,
+             .header-section-5 .navi > ul > li > a:hover,
+             .header-section-5 .navi > ul > li.active > a {
+                color: rgba(255,255,255,1);
+                background-color: rgba(255,255,255,0.2);
+            }
+            .header-section-2 .header-right .user a:hover,
+             .header-section-2 .header-right span:hover,
+             .header-section-5 .header-right .user a:hover,
+             .header-section-5 .header-right span:hover {
+                color: rgba(255,255,255,1);
+            }
+        .header-section .header-right a.btn,
+        .header-section-2 .header-right a.btn,
+        .header-section-3 .header-right a.btn,
+        .header-section-5 .header-right a.btn,
+        .header-section-6 .header-right a.btn {
+            color: #ffffff;
+            border: 1px solid #ffffff;
+            background-color: rgba(255,255,255,0.2);
+        }
+        .header-section .header-right .user a.btn:hover,
+        .header-section-2 .header-right .user a.btn:hover,
+        .header-section-3 .header-right .user a.btn:hover,
+        .header-section-5 .header-right .user a.btn:hover,
+        .header-section-6 .header-right .user a.btn:hover {
+            color: rgba(255,255,255,1);
+            border-color: #ffffff;
+            background-color: rgba(255,255,255,0.1);
+        }
+    
+        .header-section-4,
+        .header-section-4 .navi > ul ul,
+        .sticky_nav.header-section-4 {
+            background-color: #ffffff;
+        }
+        .header-section-4 .navi > ul > li > a,
+        .header-section-4 .navi > ul ul a,
+        .header-section-4 .header-right .user a,
+        .header-section-4 .header-right span {
+            color: #004274;
+        }
+        .header-section-4 .header-right a.btn {
+            color: #004274;
+            border: 1px solid #004274;
+            background-color: #ffffff;
+        }
+            .header-section-4 .navi > ul > li > a:hover,
+            .header-section-4 .navi > ul ul a:hover,
+            .header-section-4 .navi > ul > li.active > a,
+            .header-section-4 .header-right .user a:hover,
+            .header-section-4 .header-right .user a:focus,
+            .header-section-4 .header-right span:hover,
+            .header-section-4 .header-right span:focus {
+                color: rgba(0,174,239,1);
+            }
+            .header-section-4 .header-right .user .btn:hover {
+                color: rgba(255,255,255,1);
+                border-color: rgba(0,174,239,1);
+                background-color: rgba(0,174,239,1);
+            }
+      .houzez-header-transparent {
+       background-color: transparent; position: absolute; width: 100%;
+       border-bottom: 1px none;
+       border-color: rgba(255,255,255,0.3);
+      }
+      .header-section-4.houzez-header-transparent .navi > ul > li > a,
+
+      .header-section-4.houzez-header-transparent .header-right .account-action span,
+      .header-section-4.houzez-header-transparent .header-right .user span {
+         color: #ffffff;
+      }
+    .header-section-4.houzez-header-transparent .navi > ul > li > a:hover,
+        .header-section-4.houzez-header-transparent .navi > ul ul a:hover,
+        .header-section-4.houzez-header-transparent .account-action li:hover,
+
+        .header-section-4.houzez-header-transparent .header-right .user a:hover,
+        .header-section-4.houzez-header-transparent .header-right .account-action span:hover,
+        .header-section-4.houzez-header-transparent .header-right .user span:hover,
+        .header-section-4.houzez-header-transparent .header-right .user a:focus {
+            color: #00aeef;
+        }
+    .header-section-4.houzez-header-transparent .header-right .btn {
+        color: #ffffff;
+        border: 1px solid #ffffff;
+        background-color: rgba(255,255,255,0.2);
+    }
+            .header-section-4.houzez-header-transparent .header-right .user .btn:hover {
+                color: rgba(255,255,255,1);
+                border-color: rgba(0,174,239,1);
+                background-color: rgba(0,174,239,1);
+            }
+        .header-section-6 {
+            background-color: #00AEEF;
+        }
+        .header-section-6 .navi > ul > li > a {
+            color: #FFFFFF;
+            background-color: transparent;
+        }
+        .header-section-6 .header-right .user a,
+        .header-section-6 .header-right span {
+            color: #FFFFFF;
+        }
+        .header-section-6-icons .header-top-social li a {
+            color: #FFFFFF;
+        }
+        
+            .header-section-6 .navi > ul > li > a:hover {
+                color: rgba(255,255,255,1);
+                background-color: rgba(255,255,255,0.2);
+            }
+            .header-section-6 .header-right .user a:hover,
+            .header-section-6 .header-right span:hover {
+                color: rgba(255,255,255,1);
+            }
+        .navi.main-nav > ul ul {
+            background-color: rgba(255,255,255,0.95);
+        }
+        .navi.main-nav > ul ul a {
+            color: #2e3e49!important;
+        }
+        .navi.main-nav > ul ul a:hover {
+            color: #00aeef!important;
+        }
+        .navi.main-nav > ul ul li,
+        .houzez-megamenu-inner .sub-menu li {
+            border-color: #e6e6e6;
+        }
+     
+        .header-section .header-right a,
+        .header-section .header-right span,
+        .header-section .header-right .btn-default,
+        .header-section .navi ul li,
+        .header-section .account-dropdown > ul > li > a,
+
+        .header-section-3 .header-right a,
+        .header-section-3 .header-right span,
+        .header-section-3 .navi ul li,
+        .header-section-3 .account-dropdown > ul > li > a,
+
+        .header-section-2 .header-right a,
+        .header-section-2 .header-right span,
+        .header-section-2 .navi ul li,
+        .header-section-2 .account-dropdown > ul > li > a,
+
+        .header-section-4 .header-right a,
+        .header-section-4 .header-right span,
+        .header-section-4 .navi ul li,
+        .header-section-4 .header-right .btn-default,
+        .header-section-4 .account-dropdown > ul > li > a,
+
+        .header-section-5 .header-right a,
+        .header-section-5 .header-right span,
+        .header-section-5 .navi ul li,
+        .header-section-5 .account-dropdown > ul > li > a,
+
+        .header-section-6 .header-right a,
+        .header-section-6 .header-right span,
+        .header-section-6 .navi ul li,
+        .header-section-6 .account-dropdown > ul > li > a,
+
+        .board-panel-menu > li a {
+            font-family: Roboto;
+            font-size: 14px;
+            font-weight: 500;
+            line-height: 18px;
+            text-transform: none;
+            text-align: left;
+        }
+        .header-section.slpash-header .navi > ul > li > a:hover,
+        .slpash-header.header-section-4 .navi > ul > li > a:hover,
+        .header-section.slpash-header .header-right .user > a:hover,
+        .slpash-header.header-section-4 .header-right .user > a:hover,
+        .header-section.slpash-header .navi > ul > li > a:focus,
+        .slpash-header.header-section-4 .navi > ul > li > a:focus,
+        .header-section.slpash-header .header-right .user > a:focus,
+        .slpash-header.header-section-4 .header-right .user > a:focus  {
+            color: rgba(255,255,255,1);
+        }
+        .header-section.slpash-header .navi > ul > li.active > a{
+            color: #00AEEF;
+        }
+        .header-mobile {
+            background-color: #00AEEF;
+        }
+        .header-mobile .nav-dropdown > ul {
+            background-color: rgba(255,255,255,0.95);
+        }
+        .mobile-nav .nav-trigger,
+        .header-mobile .user a,
+        .header-mobile .user-icon {
+            color: #FFFFFF;
+        }
+        .splash-header .mobile-nav .nav-trigger,
+        .splash-header .header-mobile .user a,
+        .splash-header .header-mobile .user-icon {
+            color: #FFFFFF;
+        }
+        .nav-dropdown a,
+        .nav-dropdown li .expand-me {
+            color: #004274;
+        }
+        .mobile-nav a,
+        .header-mobile .account-dropdown > ul > li a {
+            font-family: Roboto;
+            font-size: 14px;
+            font-weight: 500;
+            line-height: 18px;
+            text-transform: none;
+            text-align: left;
+        }
+        .mobile-nav .nav-dropdown > ul ul a {
+            color: #ffffff;
+            background-color: #30C7FF;
+        }
+        .mobile-nav .nav-dropdown li {
+            border-top: 1px solid #ffffff;            
+        }
+            .mobile-nav .nav-dropdown > ul > li:hover {
+                background-color: rgba(0,174,239,1);
+            }
+            .mobile-nav .nav-dropdown li.active > a {
+                color: rgba(255,255,255,1);
+                background-color: rgba(0,174,239,1);
+            }
+        .account-dropdown > ul {
+            background-color: #FFFFFF;
+        }
+        .account-dropdown > ul:before {
+            border-bottom-color: #FFFFFF;
+        }
+        .account-dropdown > ul > li > a {
+            color: #2e3e49 !important;
+        }
+        .account-dropdown > ul > li > a:hover, .account-dropdown > ul > li.active > a, .account-dropdown > ul > li.active > a:hover {
+            color: #2e3e49 !important;
+            background-color: rgba(204,204,204,0.15);
+        }
+        .account-dropdown > ul > li {
+            border-color: #e6e6e6;
+        }
+        .account-dropdown > ul .sub-menu {
+            background-color: #00AEEF;
+        }
+        .account-dropdown > ul .sub-menu > li,
+        .account-dropdown > ul .sub-menu > li a {
+            color: #FFFFFF;
+        }
+        .account-dropdown > ul .sub-menu > li a:hover, .account-dropdown > ul .sub-menu > li.active > a {
+            background-color: rgba(255,255,255,0.2) !important;
+            color: inherit;
+        }
+        .account-dropdown > ul .sub-menu > li {
+            border-color: rgba(255,255,255,0.3) !important;
+        }
+        
+        .footer {
+            background-color: #181818;
+        }
+        .footer-bottom {
+            background-color: #000000;
+            border-top: 1px solid #00243f;
+        }
+        .footer,
+        .footer-widget h4,
+        .footer-bottom p,
+        .footer-widget.widget_calendar caption  {
+            color: #FFFFFF;
+        }
+        .footer a,
+        .footer-bottom .navi a,
+        .footer-bottom .foot-social p a {
+            color: #FFFFFF;
+        }
+        .footer-widget .widget-title,
+        .footer p, .footer p.wp-caption-text,
+         .footer li,
+          .footer li i {
+            color: #FFFFFF;
+        }
+            .footer a:hover,
+            .footer-bottom .navi a:hover,
+            .footer-bottom .foot-social p a:hover  {
+                color: rgba(0,174,239,1);
+            }
+            .footer-widget.widget_tag_cloud .tagcloud a {
+                color: rgba(0,174,239,1);
+                background-color: #FFFFFF;
+                border: 1px solid #FFFFFF;
+            }
+        body {
+            color: #000000;
+            font-family: Roboto;
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 24px;
+            text-transform: none;
+        }
+        .form-control {
+            color: #000000;
+            font-weight: 300;
+        }
+        input, button, select, textarea {
+            font-family: Roboto;
+        }
+        h1,
+        .page-title .title-head,
+        .article-detail h1,
+        h2,
+        .article-detail h2,
+        .houzez-module .module-title-nav h2,
+        h3,
+        .module-title h3,
+        .article-detail h3,
+        .detail h3,
+        .caption-bottom .detail h3,
+
+        .add-title-tab h3,
+        #sidebar .widget-title,
+        .footer-widget .widget-title,
+        .services-module .service-block h3,
+        h4,
+        .article-detail h4,
+        h5,
+        .article-detail h5,
+        h6,
+        .article-detail h6,
+        .item-body h2,
+        .item-body .property-title,
+        .post-card-description h3,
+        .post-card-description .post-card-title,
+        .my-property .my-heading,
+        .module-title h2,
+        .houzez-module .module-title-nav h2 {
+            font-family: Roboto;
+            font-weight: 500;
+            text-transform: inherit;
+            text-align: inherit;
+        }
+        .page-title .title-head,
+        .article-detail h1 {
+            font-size: 30px;
+            line-height: 38px;
+        }
+        .article-detail h2,
+        .houzez-module .module-title-nav h2 {
+            font-size: 24px;
+            line-height: 32px;
+            margin: 0 0 10px 0;
+        }
+        .houzez-module .module-title-nav h2 {
+            margin: 0;
+        }
+        .module-title h3,
+        .article-detail h3,
+        .services-module .service-block h3 {
+            font-size: 20px;
+            line-height: 28px;
+        }
+        .article-detail h4 {
+            font-size: 18px;
+            line-height: 26px;
+            margin: 0 0 24px 0;
+        }
+        h5,
+        .article-detail h5 {
+            font-size: 16px;
+            line-height: 24px;
+            margin: 0 0 24px 0;
+        }
+        h6,
+        .article-detail h6 {
+            font-size: 14px;
+            line-height: 20px;
+            margin: 0 0 24px 0;
+        }
+        .item-body h2,
+        .post-card-description h3,
+        .my-property .my-heading {
+            font-size: 16px;
+            line-height: 20px;
+            margin: 0 0 8px 0;
+            font-weight: 500;
+            text-transform: inherit;
+            text-align: inherit;
+        }
+        .module-title h2 {
+            font-size: 24px;
+            line-height: 32px;
+            margin: 0 0 10px 0;
+            font-weight: 500;
+            text-transform: inherit;
+            text-align: inherit;
+        }
+        .module-title .sub-heading {
+            font-size: 16px;
+            line-height: 24px;
+            font-weight: 300;
+            text-transform: inherit;
+            text-align: inherit;
+        }
+        .houzez-module .module-title-nav .sub-title {
+            font-size: 16px;
+            line-height: 18px;
+            margin: 8px 0 0 0;
+            font-weight: 300;
+            text-transform: inherit;
+            text-align: inherit;
+        }
+        .item-thumb .hover-effect:before,
+        figure .hover-effect:before,
+        .carousel-module .carousel .item figure .hover-effect:before,
+        .item-thumb .slideshow .slideshow-nav-main .slick-slide:before,
+        .slideshow .slideshow-nav-main .item-thumb .slick-slide:before,
+        figure .slideshow .slideshow-nav-main .slick-slide:before,
+        .slideshow .slideshow-nav-main figure .slick-slide:before {
+        background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 65%, rgba(0,0,0,.75) 100%);
+        }
+        .slideshow .slide .slick-prev:hover,
+        .slideshow .slideshow-nav .slick-prev:hover,
+        .slideshow .slide .slick-next:hover,
+        .slideshow .slideshow-nav .slick-next:hover,
+        .slideshow .slide .slick-prev:focus,
+        .slideshow .slideshow-nav .slick-prev:focus,
+        .slideshow .slide .slick-next:focus,
+        .slideshow .slideshow-nav .slick-next:focus
+        .item-thumb:hover .hover-effect:before,
+        figure:hover .hover-effect:before,
+        .carousel-module .carousel .item figure:hover .hover-effect:before,
+        .item-thumb:hover .slideshow .slideshow-nav-main .slick-slide:before,
+        .slideshow .slideshow-nav-main .item-thumb:hover .slick-slide:before,
+        figure:hover .slideshow .slideshow-nav-main .slick-slide:before,
+        .slideshow .slideshow-nav-main figure:hover .slick-slide:before,
+        .item-thumb:hover .hover-effect:before,
+        figure:hover .hover-effect:before,
+        .carousel-module .carousel .item figure:hover .hover-effect:before,
+        .item-thumb:hover .slideshow .slideshow-nav-main .slick-slide:before,
+        .slideshow .slideshow-nav-main .item-thumb:hover .slick-slide:before,
+        figure:hover .slideshow .slideshow-nav-main .slick-slide:before,
+        .slideshow .slideshow-nav-main figure:hover .slick-slide:before {
+            color: #fff;
+            background-color: rgba(255,255,255,.5);
+        }
+        .figure-grid .detail h3,
+        .detail-above.detail h3 {
+            color: #fff;
+        }
+        .detail-bottom.detail h3 {
+            color: #000;
+        }
+        .agent-contact a {
+            font-weight: 700;
+        }
+        .label-status {
+            background-color: #333;
+            font-weight: 700;
+        }
+        .read .fa {
+            top: 1px;
+            position: relative;
+        }            
+        .label-primary,
+        .fave-load-more a,
+        .widget_tag_cloud .tagcloud a,
+        .pagination-main .pagination li.active a,
+        .other-features .btn.btn-secondary,
+        .my-menu .active am {
+            font-weight: 500;
+        }       
+        .header-detail.table-cell .header-right {
+            margin-top: 27px;
+        }
+        .header-detail h1 .actions span, .header-detail h4 .actions span {
+            font-size: 18px;
+            display: inline-block;
+            vertical-align: middle;
+            margin: 0 3px;
+        }        
+        .header-detail .property-address {
+            color: #707070;
+            margin-top: 12px;
+        }        
+        .white-block {
+            padding: 40px;
+        }
+        .wpb_text_column ul,
+        .wpb_text_column ol {
+            margin-top: 20px;
+            margin-bottom: 20px;
+            padding-left: 20px;
+        }
+        #sidebar .widget_houzez_latest_posts img {
+            max-width: 90px;
+            margin-top: 0;
+        }
+        #sidebar .widget_houzez_latest_posts .media-heading,
+        #sidebar .widget_houzez_latest_posts .read {
+            font-size: 14px;
+            line-height: 18px;
+            font-weight: 500;
+        }        
+        #sidebar .widget-range .dropdown-toggle,
+        .bootstrap-select.btn-group,        
+        .search-long .search input,
+        .advanced-search .search-long .advance-btn,        
+        .splash-search .dropdown-toggle {
+            font-weight: 400;
+            color: #959595 !important;
+            font-size: 15px;
+        }
+
+        .advanced-search .input-group .form-control {
+            border-left-width: 0;
+        }        
+        .location-select {
+            max-width: 170px;
+        }             
+        
+            .splash-inner-media .vegas-overlay {
+               opacity: 0.5;
+               background: url(http://stunited.vn/wp-content/themes/houzez/images/overlays/03.png);
+           }
+        .user-dashboard-left,
+        .board-header {
+            background-color:#00365e;
+        }
+        .board-panel-menu > li a,
+        .board-header .board-title,
+        .board-header .breadcrumb > .active,
+        .board-header .breadcrumb li:after,
+        .board-header .steps-progress-main { 
+            color:#ffffff; 
+         }
+        .board-panel-menu > li.active {
+            color: #4cc6f4;
+        }
+        .board-panel-menu .sub-menu {
+            background-color: #002B4B;
+        }
+        .board-panel-menu .sub-menu > li.active > a, .board-panel-menu > li a:hover {
+            color: #4cc6f4;
+        }
+     
+        #ihf-main-container .btn-primary,
+        #ihf-main-container .dropdown-menu>.active>a, 
+        #ihf-main-container .dropdown-menu>.active>a:focus {
+            background-color: #00AEEF;
+            border-color: #00AEEF;
+            color: #fff !important;
+        } 
+        #ihf-main-container .btn-primary:hover, 
+        #ihf-main-container .btn-primary:focus, 
+        #ihf-main-container .btn-primary:active, 
+        #ihf-main-container .btn-primary.active,
+        #ihf-main-container .dropdown-menu>.active>a:hover,
+        #ihf-main-container .dropdown-menu>li>a:focus, 
+        #ihf-main-container .dropdown-menu>li>a:hover {
+            background-color: rgba(0,174,239,0.75);
+            border-color: rgba(0,174,239,0.75);
+        }
+        #ihf-main-container .ihf-map-search-refine-link,
+        #ihf-main-container .ihf-map-search-refine-link,
+        #ihf-main-container .ihf-results-links a {
+            background-color: #FF6E00 !important;
+            border-color: #FF6E00 !important;
+            color: #fff !important;
+        }
+        #ihf-main-container #saveSearchButton {
+            background-color: transparent;
+            border: none;
+            color: #00AEEF !important;
+        }
+        #ihf-main-container a,
+        #ihf-main-container .btn-link {
+            color: #00AEEF;       
+        }
+        #ihf-main-container a:hover,
+        #ihf-main-container a:active,
+        #ihf-main-container .btn-link:hover,
+        #ihf-main-container .btn-link:active {
+            color: rgba(0,174,239,0.75);
+        }
+        .ihf-grid-result-photocount a {       
+            border: 1px solid #00AEEF;   
+        }
+        .ihf-grid-result-basic-info-container,
+        #ihf-main-container {
+            color: #000000;
+            font-family: Roboto;
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 24px;
+            text-transform: none;
+        }
+        #ihf-main-container .fs-12,
+        .ihf-tab-pane,
+        #ihf-agent-sellers-rep,
+        #ihf-board-detail-disclaimer,
+        #ihf-board-detail-updatetext  {
+            font-size: 16px;
+        }
+        #ihf-main-container .title-bar-1,
+        .ihf-map-icon{
+            background-color: #00AEEF;
+        }
+        .ihf-map-icon{
+            border-color: #00AEEF;
+        }
+        .ihf-map-icon:after{
+            border-top-color: #00AEEF;
+        }
+        #ihf-main-container h1, 
+        #ihf-main-container h2, 
+        #ihf-main-container h3, 
+        #ihf-main-container h4, 
+        #ihf-main-container h5, 
+        #ihf-main-container h6, 
+        #ihf-main-container .h1, 
+        #ihf-main-container .h2, 
+        #ihf-main-container .h3, 
+        #ihf-main-container .h4, 
+        #ihf-main-container .h5, 
+        #ihf-main-container .h6,
+        #ihf-main-container h4.ihf-address,
+        #ihf-main-container h4.ihf-price  {
+            font-family: Roboto;
+            font-weight: 500;
+            text-transform: inherit;
+            text-align: inherit;
+        }
+    
+        .houzez-osm-cluster{
+            background-image: url(http://stunited.vn/wp-content/themes/houzez/images/map/cluster-icon.png);
+            text-align: center;
+            color: #fff;
+            width: 48px;
+            height: 48px;
+            line-height: 48px;
+        }
+    
+</style>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://stunited.vn/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.4' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='elementor-icons-css' href='https://stunited.vn/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css' href='https://stunited.vn/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://stunited.vn/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://stunited.vn/wp-content/uploads/elementor/css/global.css?ver=1566375867' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://stunited.vn/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://stunited.vn/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://stunited.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://stunited.vn/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0'></script>
+<script type='text/javascript' src='https://stunited.vn/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.0.5'></script>
+<link rel='https://api.w.org/' href='https://stunited.vn/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://stunited.vn/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://stunited.vn/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.2.2" />
+<link rel="canonical" href="https://stunited.vn/" />
+<link rel='shortlink' href='https://stunited.vn/' />
+<link rel="alternate" type="application/json+oembed" href="https://stunited.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstunited.vn%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://stunited.vn/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstunited.vn%2F&#038;format=xml" />
+<script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=217780371604666";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+<link rel="shortcut icon" href="https://stunited.vn/wp-content/uploads/2019/09/stunited-e15650013362301.png"><link rel="apple-touch-icon-precomposed" href="https://stunited.vn/wp-content/uploads/2019/09/stunited-e15650013362301.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://stunited.vn/wp-content/uploads/2019/09/stunited-e15650013362301.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://stunited.vn/wp-content/uploads/2019/09/stunited-e15650013362301.png"><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+<meta name="generator" content="Powered by Slider Revolution 6.0.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(a){try{var b,c=document.getElementById(a.c).parentNode.offsetWidth;if(c=0===c||isNaN(c)?window.innerWidth:c,a.tabw=void 0===a.tabw?0:parseInt(a.tabw),a.thumbw=void 0===a.thumbw?0:parseInt(a.thumbw),a.tabh=void 0===a.tabh?0:parseInt(a.tabh),a.thumbh=void 0===a.thumbh?0:parseInt(a.thumbh),a.tabhide=void 0===a.tabhide?0:parseInt(a.tabhide),a.thumbhide=void 0===a.thumbhide?0:parseInt(a.thumbhide),a.mh=void 0===a.mh||""==a.mh?0:a.mh,"fullscreen"===a.layout||"fullscreen"===a.l)b=Math.max(a.mh,window.innerHeight);else{for(var d in a.gw=Array.isArray(a.gw)?a.gw:[a.gw],a.rl)(void 0===a.gw[d]||0===a.gw[d])&&(a.gw[d]=a.gw[d-1]);for(var d in a.gh=void 0===a.el||""===a.el||Array.isArray(a.el)&&0==a.el.length?a.gh:a.el,a.gh=Array.isArray(a.gh)?a.gh:[a.gh],a.rl)(void 0===a.gh[d]||0===a.gh[d])&&(a.gh[d]=a.gh[d-1]);var e,f=Array(a.rl.length),g=0;for(var d in a.tabw=a.tabhide>=c?0:a.tabw,a.thumbw=a.thumbhide>=c?0:a.thumbw,a.tabh=a.tabhide>=c?0:a.tabh,a.thumbh=a.thumbhide>=c?0:a.thumbh,a.rl)f[d]=a.rl[d]<window.innerWidth?0:a.rl[d];for(var d in e=f[0],f)e>f[d]&&0<f[d]&&(e=f[d],g=d);var h=c>a.gw[g]+a.tabw+a.thumbw?1:(c-(a.tabw+a.thumbw))/a.gw[g];b=a.gh[g]*h+(a.tabh+a.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(a.c).height=b,window.rs_init_css.innerHTML+="#"+a.c+"_wrapper { height: "+b+"px }"}catch(a){console.log("Failure at Presize of Slider:"+a)}};</script>
+<style type="text/css" id="wp-custom-css">
+			.agents-block .block-body a {
+	display: none;
+}
+
+.agents-block .auther-thumb a {
+	pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  color: black;
+}		</style>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="home page-template page-template-template page-template-template-homepage page-template-templatetemplate-homepage-php page page-id-194 wpb-js-composer js-comp-ver-6.0.4 vc_responsive elementor-default elementor-page elementor-page-194">
+<div id="fb-root"></div>
+<div class="modal fade" id="pop-login" tabindex="-1" role="dialog">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<ul class="login-tabs">
+<li class="houzez_login active">Login</li>
+<li class="houzez_register">Register</li>
+</ul>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+</div>
+<div class="modal-body login-block class-for-register-msg">
+<div class="tab-content">
+<div class="tab-pane fade in active">
+<div id="houzez_messages" class="houzez_messages message"></div>
+<form>
+<div class="form-group field-group">
+<div class="input-user input-icon">
+<input id="login_username" name="username" placeholder="Username or Email" type="text" />
+</div>
+<div class="input-pass input-icon">
+<input id="password" name="password" placeholder="Password" type="password" />
+</div>
+</div>
+<div class="forget-block clearfix">
+<div class="form-group pull-left">
+<div class="checkbox">
+<label>
+<input name="remember" id="remember" type="checkbox">
+Remember me </label>
+</div>
+</div>
+<div class="form-group pull-right">
+<a href="#" data-dismiss="modal" data-toggle="modal" data-target="#pop-reset-pass">Lost your password?</a>
+</div>
+</div>
+<input type="hidden" id="houzez_login_security" name="houzez_login_security" value="80c15bdf2e" /><input type="hidden" name="_wp_http_referer" value="/" /> <input type="hidden" name="action" id="login_action" value="houzez_login">
+<button type="submit" class="fave-login-button btn btn-primary btn-block">Login</button>
+</form>
+</div>
+<div class="tab-pane fade">
+User registration is disabled in this website. </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="pop-reset-pass" tabindex="-1" role="dialog">
+<div class="modal-dialog modal-sm">
+<div class="modal-content">
+<div class="modal-header">
+<ul class="login-tabs">
+<li class="active">Reset Password</li>
+</ul>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-close"></i></button>
+</div>
+<div class="modal-body login-block">
+<p>Please enter your username or email address. You will receive a link to create a new password via email.</p>
+<div id="houzez_msg_reset" class="message"></div>
+<form>
+<div class="form-group">
+<div class="input-user input-icon">
+<input name="user_login_forgot" id="user_login_forgot" placeholder="Enter your username or email" class="form-control">
+</div>
+</div>
+<input type="hidden" id="fave_resetpassword_security" name="fave_resetpassword_security" value="b70862411e" /><input type="hidden" name="_wp_http_referer" value="/" /> <button type="button" id="houzez_forgetpass" class="btn btn-primary btn-block">Get new password</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+
+<header id="header-section" class="houzez-header-main header-section-4 nav-left houzez-header-transparent  " data-sticky="0">
+<div class="container">
+<div class="header-left">
+<div class="logo logo-desktop">
+<a href="https://stunited.vn/">
+<img src="https://stunited.vn/wp-content/uploads/2019/09/stunited-e15650013362301.png" alt="logo">
+</a>
+</div>
+<nav class="navi main-nav">
+<ul id="main-nav" class=""><li id="menu-item-1535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-194 current_page_item menu-item-1535"><a href="https://stunited.vn/" aria-current="page">HOME</a></li>
+<li id="menu-item-1809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1809"><a href="https://stunited.vn/st-software/">WHAT WE DO</a>
+<ul class="sub-menu">
+<li id="menu-item-1849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1849"><a href="https://stunited.vn/st-software/">ST SOFTWARE</a></li>
+<li id="menu-item-1850" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1850"><a href="https://stunited.vn/st-digital/">ST DIGITAL</a></li>
+<li id="menu-item-1853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1853"><a href="https://stunited.vn/st-incubation/">ST INCUBATION</a></li>
+</ul>
+</li>
+<li id="menu-item-1873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1873"><a href="https://stunited.vn/who-we-are/">WHO WE ARE</a></li>
+<li id="menu-item-1864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1864"><a href="https://stunited.vn/portfolio/">PORTFOLIO</a></li>
+<li id="menu-item-1868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1868"><a href="https://stunited.vn/join-us/">JOIN US</a></li>
+<li id="menu-item-1537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1537"><a href="https://stunited.vn/lets-talk/">LET&#8217;S TALK</a></li>
+</ul> </nav>
+</div>
+</div>
+</header>
+
+<div class="header-mobile houzez-header-mobile " data-sticky="0">
+<div class="container">
+
+<div class="mobile-nav">
+<span class="nav-trigger"><i class="fa fa-navicon"></i></span>
+<div class="nav-dropdown main-nav-dropdown"></div>
+</div>
+
+<div class="header-logo logo-mobile">
+<a href="https://stunited.vn/">
+<img src="https://stunited.vn/wp-content/uploads/2019/09/stunited-e15650013362301.png" alt="Mobile logo">
+</a> </div>
+</div>
+</div>
+<div id="section-body" class="">
+<div class="header-media">
+<div class="page-banner-revolution-slider">
+
+<p class="rs-p-wp-fix"></p>
+<rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="background:transparent;padding:0;">
+<rs-module id="rev_slider_1_1" style="display:none;" data-version="6.0.5">
+<rs-slides>
+<rs-slide data-key="rs-1" data-title="Slide" data-thumb="//stunited.vn/wp-content/uploads/2019/08/1566375726229-100x50.jpeg" data-anim="ei:d;eo:d;s:d;r:0;t:crossfade;sl:d;">
+<img src="//stunited.vn/wp-content/uploads/2019/08/1566375726229.jpeg" title="1566375726229" width="1920" height="1080" class="rev-slidebg" data-no-retina>
+<rs-layer id="slider-1-slide-1-layer-1" class="Gym-Menuitem" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;y:b;yo:50px;" data-text="s:24;l:50;ls:2px;fw:700;" data-padding="t:5;r:20;b:5;l:20;" data-border="bos:solid;bow:2px,2px,2px,2px;bor:3px,3px,3px,3px;" data-frame_0="y:100%;tp:600;" data-frame_1="tp:600;e:Power4.easeInOut;st:500;sp:1500;" data-frame_999="o:0;tp:600;e:nothing;st:w;" data-frame_hover="bgc:#f7941d;boc:rgba(255,255,255,0.25);bor:3px,3px,3px,3px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;sp:200;" style="z-index:6;background-color:rgba(247,148,29,1);font-family:Cabin;cursor:pointer;">Collaborate to kick-start your software project
+</rs-layer><rs-layer id="slider-1-slide-1-layer-3" class="tp-shape tp-shapewrapper" data-type="shape" data-rsp_ch="on" data-xy="x:c;y:c;" data-text="fw:100;" data-dim="w:100000px;h:100%;" data-basealign="slide" data-frame_0="o:1;tp:600;" data-frame_1="tp:600;e:Power2.easeInOut;sp:1.875;" data-frame_999="tp:600;e:nothing;st:w;sp:1.875;" style="z-index:5;background-color:rgba(0,0,0,0.40);font-family:Roboto;">
+</rs-layer> </rs-slide>
+<rs-slide data-key="rs-2" data-title="Slide" data-thumb="//stunited.vn/wp-content/uploads/2019/09/01.1-Mobile-Trang-Chu-Version-01-100x50.png" data-anim="ei:d;eo:d;s:d;r:0;t:crossfade;sl:d;">
+<img src="//stunited.vn/wp-content/uploads/2019/09/01.1-Mobile-Trang-Chu-Version-01.png" title="01.1 Mobile Trang Chu Version 01" width="1200" height="945" class="rev-slidebg" data-no-retina>
+<rs-layer id="slider-1-slide-2-layer-1" class="Gym-Menuitem" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;y:b;yo:50px;" data-text="s:24;l:50;ls:2px;fw:700;" data-padding="t:5;r:20;b:5;l:20;" data-border="bos:solid;bow:2px,2px,2px,2px;bor:3px,3px,3px,3px;" data-frame_0="y:100%;tp:600;" data-frame_1="tp:600;e:Power4.easeInOut;st:500;sp:1500;" data-frame_999="o:0;tp:600;e:nothing;st:w;" data-frame_hover="bgc:#f7941d;boc:rgba(255,255,255,0.25);bor:3px,3px,3px,3px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;sp:200;" style="z-index:6;background-color:rgba(247,148,29,1);font-family:Cabin;cursor:pointer;">We code, we care
+</rs-layer><rs-layer id="slider-1-slide-2-layer-3" class="tp-shape tp-shapewrapper" data-type="shape" data-rsp_ch="on" data-xy="x:c;y:c;" data-text="w:normal;fw:100;" data-dim="w:10000000px;h:100%;" data-basealign="slide" data-frame_0="o:1;tp:600;" data-frame_1="tp:600;e:Power2.easeInOut;sp:1.875;" data-frame_999="tp:600;e:nothing;st:w;sp:1.875;" style="z-index:5;background-color:rgba(0,0,0,0.40);font-family:Roboto;min-width:100%;">
+</rs-layer> </rs-slide>
+<rs-slide data-key="rs-3" data-title="Slide" data-thumb="//stunited.vn/wp-content/uploads/2019/09/image-100x50.jpg" data-anim="ei:d;eo:d;s:d;r:0;t:crossfade;sl:d;">
+<img src="//stunited.vn/wp-content/uploads/2019/09/image.jpg" title="image" width="1920" height="1080" class="rev-slidebg" data-no-retina>
+<rs-layer id="slider-1-slide-3-layer-1" class="Gym-Menuitem" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;y:b;yo:50px;" data-text="s:24;l:50;ls:2px;fw:700;" data-padding="t:5;r:20;b:5;l:20;" data-border="bos:solid;bow:2px,2px,2px,2px;bor:3px,3px,3px,3px;" data-frame_0="y:100%;tp:600;" data-frame_1="tp:600;e:Power4.easeInOut;st:500;sp:1500;" data-frame_999="o:0;tp:600;e:nothing;st:w;" data-frame_hover="bgc:#f7941d;boc:rgba(255,255,255,0.25);bor:3px,3px,3px,3px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;sp:200;" style="z-index:10;background-color:rgba(247,148,29,1);font-family:Cabin;cursor:pointer;">We also do digital marketing
+</rs-layer><rs-layer id="slider-1-slide-3-layer-3" class="tp-shape tp-shapewrapper" data-type="shape" data-rsp_ch="on" data-xy="x:c;xo:-9px;y:c;yo:-51px;" data-text="fw:100;" data-dim="w:100000px;h:100%;" data-basealign="slide" data-frame_0="o:1;tp:600;" data-frame_1="tp:600;e:Power2.easeInOut;sp:1.875;" data-frame_999="tp:600;e:nothing;st:w;sp:1.875;" style="z-index:8;background-color:rgba(0,0,0,0.40);font-family:Roboto;">
+</rs-layer> </rs-slide>
+<rs-slide data-key="rs-5" data-title="Slide" data-thumb="//stunited.vn/wp-content/uploads/2019/09/startup_3-100x50.jpg" data-anim="ei:d;eo:d;s:d;r:0;t:crossfade;sl:d;">
+<img src="//stunited.vn/wp-content/uploads/2019/09/startup_3.jpg" title="startup_3" width="1500" height="700" class="rev-slidebg" data-no-retina>
+<rs-layer id="slider-1-slide-5-layer-1" class="Gym-Menuitem" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;y:b;yo:50px;" data-text="s:24;l:50;ls:2px;fw:700;" data-padding="t:5;r:20;b:5;l:20;" data-border="bos:solid;bow:2px,2px,2px,2px;bor:3px,3px,3px,3px;" data-frame_0="y:100%;tp:600;" data-frame_1="tp:600;e:Power4.easeInOut;st:500;sp:1500;" data-frame_999="o:0;tp:600;e:nothing;st:w;" data-frame_hover="bgc:#f7941d;boc:rgba(255,255,255,0.25);bor:3px,3px,3px,3px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;sp:200;" style="z-index:10;background-color:rgba(247,148,29,1);font-family:Cabin;cursor:pointer;">And we are incubating startup projects too...
+</rs-layer><rs-layer id="slider-1-slide-5-layer-3" class="tp-shape tp-shapewrapper" data-type="shape" data-rsp_ch="on" data-xy="x:c;xo:-150px;y:c;yo:-11px;" data-text="fw:100;" data-dim="w:100000px;h:100%;" data-basealign="slide" data-frame_0="o:1;tp:600;" data-frame_1="tp:600;e:Power2.easeInOut;sp:1.875;" data-frame_999="tp:600;e:nothing;st:w;sp:1.875;" style="z-index:8;background-color:rgba(0,0,0,0.40);font-family:Roboto;">
+</rs-layer> </rs-slide>
+</rs-slides>
+<rs-static-layers></rs-static-layers>
+<rs-progress class="rs-bottom" style="height: 5px; background: rgba(255,255,255,0.15);"></rs-progress>
+</rs-module>
+<script type="text/javascript">
+					setREVStartSize({c: 'rev_slider_1_1',rl:[1240,1024,778,480],el:[620],gw:[1240],gh:[620],layout:'fullscreen',offsetContainer:'',offset:'',mh:"0"});
+					var	revapi1,
+						tpj;
+					jQuery(function() {
+						tpj = jQuery;
+						if(tpj("#rev_slider_1_1").revolution == undefined){
+							revslider_showDoubleJqueryError("#rev_slider_1_1");
+						}else{
+							revapi1 = tpj("#rev_slider_1_1").show().revolution({
+								jsFileLocation:"//stunited.vn/wp-content/plugins/revslider/public/assets/js/",
+								sliderLayout:"fullscreen",
+								visibilityLevels:"1240,1024,778,480",
+								gridwidth:1240,
+								gridheight:620,
+								minHeight:"",
+								spinner:"spinner3",
+								editorheight:"620,768,960,720",
+								responsiveLevels:"1240,1024,778,480",
+								navigation: {
+									mouseScrollNavigation:false,
+									onHoverStop:false,
+									arrows: {
+										enable:true,
+										style:"hesperiden",
+										left: {
+
+										},
+										right: {
+
+										}
+									},
+									bullets: {
+										enable:true,
+										tmp:"<span class=\"tp-bullet-image\"></span><span class=\"tp-bullet-imageoverlay\"></span><span class=\"tp-bullet-title\">{{title}}</span>",
+										style:"zeus"
+									}
+								},
+								fallbacks: {
+									allowHTML5AutoPlayOnAndroid:true
+								},
+							});
+						}
+						
+					});
+				</script>
+<script>
+					var htmlDivCss = '	#rev_slider_1_1_wrapper rs-loader.spinner3 div { background-color: #FFFFFF !important; } ';
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				</script>
+<script>
+					var htmlDivCss = unescape("%23rev_slider_1_1_wrapper%20.hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A1000%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3A%23000000%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%27revicons%27%3B%0A%09font-size%3A20px%3B%0A%09color%3A%23ffffff%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%27%5Ce82c%27%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%27%5Ce82d%27%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.zeus%20.tp-bullet%20%7B%0A%20%20%20%20%20box-sizing%3Acontent-box%3B%20-webkit-box-sizing%3Acontent-box%3B%20border-radius%3A50%25%3B%0A%20%20%20%20%20%20background-color%3A%20rgba%280%2C%200%2C%200%2C%200%29%3B%0A%20%20%20%20%20%20-webkit-transition%3A%20opacity%200.3s%20ease%3B%0A%20%20%20%20%20%20transition%3A%20opacity%200.3s%20ease%3B%0A%20%20%20%20width%3A13px%3Bheight%3A13px%3B%0A%20%20%20%20border%3A2px%20solid%20%23ffffff%3B%0A%20%7D%0A%23rev_slider_1_1_wrapper%20.zeus%20.tp-bullet%3Aafter%20%7B%0A%20%20content%3A%20%27%27%3B%0A%20%20position%3A%20absolute%3B%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%20100%25%3B%0A%20%20left%3A%200%3B%0A%20%20border-radius%3A%2050%25%3B%0A%20%20background-color%3A%20%23ffffff%3B%0A%20%20-webkit-transform%3A%20scale%280%29%3B%0A%20%20transform%3A%20scale%280%29%3B%0A%20%20-webkit-transform-origin%3A%2050%25%2050%25%3B%0A%20%20transform-origin%3A%2050%25%2050%25%3B%0A%20%20-webkit-transition%3A%20-webkit-transform%200.3s%20ease%3B%0A%20%20transition%3A%20transform%200.3s%20ease%3B%0A%7D%0A%23rev_slider_1_1_wrapper%20.zeus%20.tp-bullet%3Ahover%3Aafter%2C%0A%23rev_slider_1_1_wrapper%20.zeus%20.tp-bullet.selected%3Aafter%7B%0A%20%20%20%20-webkit-transform%3A%20scale%281.2%29%3B%0A%20%20transform%3A%20scale%281.2%29%3B%0A%7D%0A%20%20%0A%20%23rev_slider_1_1_wrapper%20.zeus%20.tp-bullet-image%2C%0A%20%23rev_slider_1_1_wrapper%20.zeus%20.tp-bullet-imageoverlay%7B%0A%20%20%20%20%20%20%20%20width%3A135px%3B%0A%20%20%20%20%20%20%20%20height%3A60px%3B%0A%20%20%20%20%20%20%20%20position%3Aabsolute%3B%0A%20%20%20%20%20%20%20%20background%3A%23000%3B%0A%20%20%20%20%20%20%20%20background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%20%20%20%20%20%20%20%20bottom%3A13px%3B%0A%20%20%20%20%20%20%20%20margin-bottom%3A10px%3B%0A%20%20%20%20%20%20%20%20transform%3AtranslateX%28-50%25%29%3B%0A%20%20%20%20%20%20%20-webkit-transform%3AtranslateX%28-50%25%29%3B%0A%20%20%20%20%20%20%20%20box-sizing%3Aborder-box%3B%0A%20%20%20%20%20%20%20%20background-size%3Acover%3B%0A%20%20%20%20%20%20%20%20background-position%3Acenter%20center%3B%0A%20%20%20%20%20%20%20%20visibility%3Ahidden%3B%0A%20%20%20%20%20%20%20%20opacity%3A0%3B%0A%20%20%20%20%20%20%20%20%20-webkit-backface-visibility%3A%20hidden%3B%20%0A%20%20%20%20%20%20%20%20backface-visibility%3A%20hidden%3B%0A%20%20%20%20%20%20%20%20-webkit-transform-origin%3A%2050%25%2050%25%3B%0A%20%20%20%20transform-origin%3A%2050%25%2050%25%3B%0A%20%20%20%20%20%20-webkit-transition%3A%20all%200.3s%20ease%3B%0A%20%20%20%20%20%20transition%3A%20all%200.3s%20ease%3B%0A%20%20%20%20%20%20%20%20border-radius%3A4px%3B%0A%7D%0A%20%20%20%20%20%20%20%20%20%20%0A%0A%23rev_slider_1_1_wrapper%20.zeus%20.tp-bullet-title%2C%0A%23rev_slider_1_1_wrapper%20.zeus%20.tp-bullet-imageoverlay%20%7B%0A%20%20%20%20%20%20%20%20z-index%3A2%3B%0A%20%20%20%20%20%20%20%20-webkit-transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20%20transform%3AtranslateX%28-50%25%29%3B%0A%20%20%20%20%20%20%20-webkit-transform%3AtranslateX%28-50%25%29%3B%0A%7D%20%20%20%20%20%0A%23rev_slider_1_1_wrapper%20.zeus%20.tp-bullet-title%20%7B%20%0A%20%20%20%20%20%20%20%20color%3A%23ffffff%3B%0A%20%20%20%20%20%20%20%20text-align%3Acenter%3B%0A%20%20%20%20%20%20%20%20line-height%3A15px%3B%0A%20%20%20%20%20%20%20%20font-size%3A13px%3B%0A%20%20%20%20%20%20%20%20font-weight%3A600%3B%20%20%0A%20%20%20%20%20%20%20%20z-index%3A3%3B%0A%20%20%20%20%20%20%20%20%20visibility%3Ahidden%3B%0A%20%20%20%20%20%20%20%20opacity%3A0%3B%0A%20%20%20%20%20%20%20%20%20-webkit-backface-visibility%3A%20hidden%3B%20%0A%20%20%20%20%20%20%20%20backface-visibility%3A%20hidden%3B%0A%20%20%20%20%20%20%20%20-webkit-transform-origin%3A%2050%25%2050%25%3B%0A%20%20%20%20transform-origin%3A%2050%25%2050%25%3B%0A%20%20%20%20%20%20-webkit-transition%3A%20all%200.3s%20ease%3B%0A%20%20%20%20%20%20transition%3A%20all%200.3s%20ease%3B%0A%20%20%20%20%20%20%20%20position%3Aabsolute%3B%0A%20%20%20%20%20%20%20%20bottom%3A45px%3B%0A%20%20%20%20%20%20%20%20width%3A135px%3B%0A%20%20%20%20%20%20vertical-align%3Amiddle%3B%0A%20%20%20%20%20%20%20%0A%7D%0A%20%20%20%20%20%20%0A%23rev_slider_1_1_wrapper%20.zeus%20.tp-bullet%3Ahover%20.tp-bullet-title%2C%0A%23rev_slider_1_1_wrapper%20.zeus%20.tp-bullet%3Ahover%20.tp-bullet-image%2C%0A%23rev_slider_1_1_wrapper%20.zeus%20.tp-bullet%3Ahover%20.tp-bullet-imageoverlay%7B%0A%20%20%20%20%20%20opacity%3A1%3B%0A%20%20%20%20%20%20visibility%3Avisible%3B%0A%20%20%20%20-webkit-transform%3AtranslateY%280px%29%20translateX%28-50%25%29%3B%0A%20%20%20%20%20%20transform%3AtranslateY%280px%29%20translateX%28-50%25%29%3B%20%20%20%20%20%20%20%20%20%0A%20%20%20%20%7D%0A%0A%0A%0A%0A%2F%2A%20VERTICAL%20RIGHT%20%2A%2F%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical%20.tp-bullet-image%2C%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical%20.tp-bullet-imageoverlay%7B%0A%20%20bottom%3Aauto%3B%0A%20%20margin-right%3A10px%3B%0A%20%20margin-bottom%3A0px%3B%0A%20%20right%3A13px%3B%0A%20%20transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical%20.tp-bullet%3Ahover%20.tp-bullet-image%20%7B%0A%20%20transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%7D%0A%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical%20.tp-bullet-title%2C%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical%20.tp-bullet-imageoverlay%20%7B%0A%20%20%20%20%20%20%20%20z-index%3A2%3B%0A%20%20%20%20%20%20%20%20-webkit-transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20%20transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20%20%20%20%20%20-webkit-transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%7D%20%20%20%0A%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical%20.tp-bullet-title%20%7B%0A%20%20%20%20%20bottom%3Aauto%3B%0A%20%20%20%20%20right%3A100%25%3B%0A%20%20%20%20%20margin-right%3A10px%3B%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical%20.tp-bullet%3Ahover%20.tp-bullet-title%2C%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical%20.tp-bullet%3Ahover%20.tp-bullet-image%2C%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical%20.tp-bullet%3Ahover%20.tp-bullet-imageoverlay%20%7B%0A%20transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%7D%0A%0A%0A%0A%2F%2A%20VERTICAL%20LEFT%20%2A%2F%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-image%2C%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-imageoverlay%7B%0A%20%20bottom%3Aauto%3B%0A%20%20margin-left%3A10px%3B%0A%20%20margin-bottom%3A0px%3B%0A%20%20left%3A13px%3B%0A%20%20transform%3A%20%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet%3Ahover%20.tp-bullet-image%20%7B%0A%20%20transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20translateX%280px%29%20translateY%28-50%25%29%3B%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-title%2C%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-imageoverlay%20%7B%0A%20%20%20%20%20%20%20%20z-index%3A2%3B%0A%20%20%20%20%20%20%20%20-webkit-transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20%20transform%3AtranslateX%280px%29%20translateY%28-50%25%29%3B%0A%20%20%20%20%20%20%20-webkit-transform%3AtranslateX%280px%29%20translateY%28-50%25%29%3B%0A%7D%20%20%20%0A%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-vertical.nav-pos-hor-left%20.tp-bullet-title%20%7B%0A%20%20%20%20%20bottom%3Aauto%3B%0A%20%20%20%20%20left%3A100%25%3B%0A%20%20%20%20%20margin-left%3A10px%3B%0A%7D%0A%0A%2F%2A%20HORIZONTAL%20TOP%20%2A%2F%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-image%2C%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-imageoverlay%7B%0A%20%20bottom%3Aauto%3B%0A%20%20top%3A13px%3B%0A%20%20margin-top%3A10px%3B%0A%20%20margin-bottom%3A0px%3B%0A%20%20left%3A0px%3B%0A%20%20transform%3AtranslateY%280px%29%20translateX%28-50%25%29%3B%0A%20%20-webkit-transform%3AtranslateX%280px%29%20translateX%28-50%25%29%3B%0A%20%20%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet%3Ahover%20.tp-bullet-image%20%7B%0A%20%20%0A%20%20transform%3A%20scale%281%29%20translateY%280px%29%20translateX%28-50%25%29%3B%0A%20%20-webkit-transform%3A%20scale%281%29%20translateY%280px%29%20translateX%28-50%25%29%3B%0A%20%20%0A%7D%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-title%2C%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-imageoverlay%20%7B%0A%20%20%20%20%20%20%20%20z-index%3A2%3B%0A%20%20%20%20%20%20%20%20-webkit-transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20transition%3A%20all%200.5s%20ease%3B%0A%20%20%20%20%20%20%20%20transform%3AtranslateY%280px%29%20translateX%28-50%25%29%3B%0A%20%20%20%20%20%20%20-webkit-transform%3AtranslateY%280px%29%20translateX%28-50%25%29%3B%0A%7D%20%20%20%0A%0A%0A%23rev_slider_1_1_wrapper%20.zeus.nav-dir-horizontal.nav-pos-ver-top%20.tp-bullet-title%20%7B%0A%20%20%20%20%20bottom%3Aauto%3B%0A%20%20%20%20%20top%3A13px%3B%0A%20%20%20%20%20margin-top%3A20px%3B%0A%7D%0A%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				</script>
+</rs-module-wrap>
+
+</div>
+</div>
+<div class="container">
+
+<div id="compare-controller" class="compare-panel">
+<div class="compare-panel-header">
+<h4 class="title"> Compare Listings <span class="panel-btn-close pull-right"><i class="fa fa-times"></i></span></h4>
+</div>
+<div id="compare-properties-basket">
+</div>
+</div>
+
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="houzez-module module-title section-title-module text-center ">
+<h2>Typical successful stories</h2>
+<h3 class="sub-heading">From ideas turned into carefully crafted pixels and problems crafted into solutions.</h3>
+</div>
+<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="team-block">
+<a class="team-block-mobile" href="#"></a>
+<img src="https://stunited.vn/wp-content/uploads/2019/09/Capture.png" alt="eHealth" align="team">
+<div class="team-caption team-caption-before">
+<div class="team-caption-inner">
+<h4 class="team-name"><a href="#">eHealth</a></h4>
+<p class="team-designation">#ASP.NET #Android #iOS</p>
+<ul class="team-social">
+<li><a target="" href="https://www.facebook.com/stunited.vn/" class="btn-facebook"><i class="fa fa-facebook-square"></i></a></li><li><a target="" href="#" class="btn-linkedin"><i class="fa fa-linkedin-square"></i></a></li> </ul>
+</div>
+</div>
+<div class="team-caption team-caption-after">
+<div class="team-caption-inner">
+<h4 class="team-name"><a href="#">eHealth</a></h4>
+<p class="team-designation"><a href="#">#ASP.NET #Android #iOS</a></p>
+<p class="team-description">
+A health data management application for the personal healthcare in coordination with employers, pharmacies and medical examination providers. </p>
+<ul class="team-social">
+<li><a target="" href="https://www.facebook.com/stunited.vn/" class="btn-facebook"><i class="fa fa-facebook-square"></i></a></li><li><a target="" href="#" class="btn-linkedin"><i class="fa fa-linkedin-square"></i></a></li> </ul>
+</div>
+</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="team-block">
+<a class="team-block-mobile" href="https://stunited.vn/"></a>
+<img src="https://stunited.vn/wp-content/uploads/2019/09/image-logo-1.png" alt="Havuta" align="team">
+<div class="team-caption team-caption-before">
+<div class="team-caption-inner">
+<h4 class="team-name"><a href="https://stunited.vn/">Havuta</a></h4>
+<p class="team-designation">#Blockchain #NodeJS #ReactJS #React Native</p>
+<ul class="team-social">
+<li><a target="_blank" href="https://www.facebook.com/stunited.vn/" class="btn-facebook"><i class="fa fa-facebook-square"></i></a></li><li><a target="_blank" href="#" class="btn-linkedin"><i class="fa fa-linkedin-square"></i></a></li> </ul>
+</div>
+</div>
+<div class="team-caption team-caption-after">
+<div class="team-caption-inner">
+<h4 class="team-name"><a href="https://stunited.vn/">Havuta</a></h4>
+<p class="team-designation"><a href="https://stunited.vn/">#Blockchain #NodeJS #ReactJS #React Native</a></p>
+<p class="team-description">
+Havuta brings smartphone and blockchain-based solutions to the data collection challenges facing the development sector. Creating a blockchain-based feedback loop benefiting NGOs, engaging their beneficiaries, and promoting transparency. </p>
+<ul class="team-social">
+<li><a target="_blank" href="https://www.facebook.com/stunited.vn/" class="btn-facebook"><i class="fa fa-facebook-square"></i></a></li><li><a target="_blank" href="#" class="btn-linkedin"><i class="fa fa-linkedin-square"></i></a></li> </ul>
+</div>
+</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="team-block">
+<a class="team-block-mobile" href="https://stunited.vn/"></a>
+<img src="https://stunited.vn/wp-content/uploads/2019/09/figure01.jpg" alt="E-ASPRO" align="team">
+<div class="team-caption team-caption-before">
+<div class="team-caption-inner">
+<h4 class="team-name"><a href="https://stunited.vn/">E-ASPRO</a></h4>
+<p class="team-designation">#Javascript #HTML #CSS</p>
+<ul class="team-social">
+<li><a target="_blank" href="https://www.facebook.com/stunited.vn/" class="btn-facebook"><i class="fa fa-facebook-square"></i></a></li><li><a target="_blank" href="#" class="btn-linkedin"><i class="fa fa-linkedin-square"></i></a></li> </ul>
+</div>
+</div>
+<div class="team-caption team-caption-after">
+<div class="team-caption-inner">
+<h4 class="team-name"><a href="https://stunited.vn/">E-ASPRO</a></h4>
+<p class="team-designation"><a href="https://stunited.vn/">#Javascript #HTML #CSS</a></p>
+<p class="team-description">
+E-ASPRO is a cloudtype fulfillment mail order solution that enables you to efficiently manage mail order operations such as site management, orders, shipping, inventory, and shipping inquiries from one system. </p>
+<ul class="team-social">
+<li><a target="_blank" href="https://www.facebook.com/stunited.vn/" class="btn-facebook"><i class="fa fa-facebook-square"></i></a></li><li><a target="_blank" href="#" class="btn-linkedin"><i class="fa fa-linkedin-square"></i></a></li> </ul>
+</div>
+</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="team-block">
+<a class="team-block-mobile" href="https://stunited.vn/"></a>
+<img src="https://stunited.vn/wp-content/uploads/2019/09/2e-jycg6_400x400.jpg" alt="Vision Express" align="team">
+<div class="team-caption team-caption-before">
+<div class="team-caption-inner">
+<h4 class="team-name"><a href="https://stunited.vn/">Vision Express</a></h4>
+<p class="team-designation">#Chatbot #Javascript #HTML #CSS</p>
+<ul class="team-social">
+<li><a target="_blank" href="https://www.facebook.com/stunited.vn/" class="btn-facebook"><i class="fa fa-facebook-square"></i></a></li><li><a target="_blank" href="#" class="btn-linkedin"><i class="fa fa-linkedin-square"></i></a></li> </ul>
+</div>
+</div>
+<div class="team-caption team-caption-after">
+<div class="team-caption-inner">
+<h4 class="team-name"><a href="https://stunited.vn/">Vision Express</a></h4>
+<p class="team-designation"><a href="https://stunited.vn/">#Chatbot #Javascript #HTML #CSS</a></p>
+<p class="team-description">
+Chatbot to communicate with users, reply questions automatically. </p>
+<ul class="team-social">
+<li><a target="_blank" href="https://www.facebook.com/stunited.vn/" class="btn-facebook"><i class="fa fa-facebook-square"></i></a></li><li><a target="_blank" href="#" class="btn-linkedin"><i class="fa fa-linkedin-square"></i></a></li> </ul>
+</div>
+</div>
+</div>
+</div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="1.5" data-vc-parallax-image="https://stunited.vn/wp-content/uploads/2016/02/houzez-header-4.jpg" class="vc_row wpb_row vc_row-fluid vc_row-has-fill vc_general vc_parallax vc_parallax-content-moving"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="houzez-module module-title section-title-module text-center houzez-section-title-dark">
+<h2>WE DEVELOP | WE SUPPORT | WE IMPROVE</h2>
+<h3 class="sub-heading">Launch your ideas. Execute your plans. Maximize project success.</h3>
+</div>
+<div class="houzez-module service-blocks-main services-module three_columns "><div class="row no-margin"><div class="module-item"><div class="service-block"><div class="block-icon"><img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2019/09/web-1-e1567826594877-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://stunited.vn/wp-content/uploads/2019/09/web-1-e1567826594877-150x150.png 150w, https://stunited.vn/wp-content/uploads/2019/09/web-1-e1567826594877.png 292w" sizes="(max-width: 150px) 100vw, 150px" /></div><div class="block-content"><h3>Web App Development</h3><p>We create beautifully designed web apps precisely tailored to your situationWe deliver web systems of any size and complexity — from budding startup products to hi-end enterprise solutions.</p><a href="#" class="find">See More</a></div></div></div><div class="module-item"><div class="service-block"><div class="block-icon"><img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2019/09/mobile-phone-blue-round-2-512-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://stunited.vn/wp-content/uploads/2019/09/mobile-phone-blue-round-2-512-150x150.png 150w, https://stunited.vn/wp-content/uploads/2019/09/mobile-phone-blue-round-2-512-300x300.png 300w, https://stunited.vn/wp-content/uploads/2019/09/mobile-phone-blue-round-2-512-350x350.png 350w, https://stunited.vn/wp-content/uploads/2019/09/mobile-phone-blue-round-2-512-480x480.png 480w, https://stunited.vn/wp-content/uploads/2019/09/mobile-phone-blue-round-2-512.png 512w" sizes="(max-width: 150px) 100vw, 150px" /></div><div class="block-content"><h3>Mobile App Development</h3><p>ST provides custom mobile application development across different<br />
+platforms such as iOS and Android for consumer-facing and enterprise<br />
+environment.</p><a href="#" class="find">Read More</a></div></div></div><div class="module-item"><div class="service-block"><div class="block-icon"><img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2019/09/custome-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://stunited.vn/wp-content/uploads/2019/09/custome-150x150.png 150w, https://stunited.vn/wp-content/uploads/2019/09/custome-300x300.png 300w, https://stunited.vn/wp-content/uploads/2019/09/custome-350x350.png 350w, https://stunited.vn/wp-content/uploads/2019/09/custome-480x480.png 480w, https://stunited.vn/wp-content/uploads/2019/09/custome.png 512w" sizes="(max-width: 150px) 100vw, 150px" /></div><div class="block-content"><h3>Custom Software Development</h3><p>ST provides high quality, cost-effective and reliable software development services match your specific needs, budget and timeframe. We love to competes with other firms on the grounds of quality, creativity, n' dedication.</p><a href="#" class="find">Read More</a></div></div></div><div class="module-item"><div class="service-block"><div class="block-icon"><img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2019/09/team-icon-23-e1567826832234-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://stunited.vn/wp-content/uploads/2019/09/team-icon-23-e1567826832234-150x150.png 150w, https://stunited.vn/wp-content/uploads/2019/09/team-icon-23-e1567826832234.png 182w" sizes="(max-width: 150px) 100vw, 150px" /></div><div class="block-content"><h3>Dedicated Team</h3><p>Looking for the best resources to compliment your existing team? Our talented developers are available to augment your team on a short or long term basis.</p><a href="#" class="find">Read More</a></div></div></div><div class="module-item"><div class="service-block"><div class="block-icon"><img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2019/09/marketing-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://stunited.vn/wp-content/uploads/2019/09/marketing-150x150.png 150w, https://stunited.vn/wp-content/uploads/2019/09/marketing-300x300.png 300w, https://stunited.vn/wp-content/uploads/2019/09/marketing-350x350.png 350w, https://stunited.vn/wp-content/uploads/2019/09/marketing-480x480.png 480w, https://stunited.vn/wp-content/uploads/2019/09/marketing.png 500w" sizes="(max-width: 150px) 100vw, 150px" /></div><div class="block-content"><h3>Digital Marketing</h3><p>From establishing your online presence to increasing your influence on social, we use smart analytics to help you grow your business.</p><a href="#" class="find">Read More</a></div></div></div><div class="module-item"><div class="service-block"><div class="block-icon"><img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2019/09/startup--150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://stunited.vn/wp-content/uploads/2019/09/startup--150x150.png 150w, https://stunited.vn/wp-content/uploads/2019/09/startup--300x300.png 300w, https://stunited.vn/wp-content/uploads/2019/09/startup--768x768.png 768w, https://stunited.vn/wp-content/uploads/2019/09/startup--350x350.png 350w, https://stunited.vn/wp-content/uploads/2019/09/startup--480x480.png 480w, https://stunited.vn/wp-content/uploads/2019/09/startup-.png 888w" sizes="(max-width: 150px) 100vw, 150px" /></div><div class="block-content"><h3>Startup Incubation</h3><p>Our program provides a vast resources for entrepreneurs in Vietnam, focusing on ecosystem building, co-working spaces and incubation programs</p><a href="#" class="find">Read More</a></div></div></div></div></div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+
+<div id="partner-carousel-module" class="houzez-module agents-carousel-module">
+<div class="row">
+<div class="col-sm-12">
+<div class="module-title-nav clearfix">
+<div>
+<h2>Trusted by the Clients &amp; Partners</h2>
+<h3 class="sub-title"></h3>
+</div>
+<div class="module-nav">
+<button class="btn btn-carousel btn-sm btn-prev-partners">Prev</button>
+<button class="btn btn-carousel btn-sm btn-next-partners">Next</button>
+</div>
+</div>
+</div>
+<div class="col-sm-12">
+<div id="partner-carousel" class="partner-carousel slide-animated owl-carousel owl-theme">
+<div class="item">
+<div class="partner-block">
+<div class="partner-logo">
+<a href="http://vsec.com.vn">
+<img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2016/03/vsec_logo1-1-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://stunited.vn/wp-content/uploads/2016/03/vsec_logo1-1-150x150.png 150w, https://stunited.vn/wp-content/uploads/2016/03/vsec_logo1-1.png 250w" sizes="(max-width: 150px) 100vw, 150px" /> </a>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="partner-block">
+<div class="partner-logo">
+<a href="http://mti-vietnam.vn/">
+<img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2016/03/1544156780812-72-2-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://stunited.vn/wp-content/uploads/2016/03/1544156780812-72-2-150x150.png 150w, https://stunited.vn/wp-content/uploads/2016/03/1544156780812-72-2-300x300.png 300w, https://stunited.vn/wp-content/uploads/2016/03/1544156780812-72-2.png 350w" sizes="(max-width: 150px) 100vw, 150px" /> </a>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="partner-block">
+<div class="partner-logo">
+<a href="http://tmsgroup.vn/">
+<img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2016/03/af90ab46-05fd-11e7-9e7d-cac091044fd5-2-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://stunited.vn/wp-content/uploads/2016/03/af90ab46-05fd-11e7-9e7d-cac091044fd5-2-150x150.jpg 150w, https://stunited.vn/wp-content/uploads/2016/03/af90ab46-05fd-11e7-9e7d-cac091044fd5-2.jpg 283w" sizes="(max-width: 150px) 100vw, 150px" /> </a>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="partner-block">
+<div class="partner-logo">
+<a href="https://mobifone.vn">
+<img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2019/08/logo-1-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://stunited.vn/wp-content/uploads/2019/08/logo-1-150x150.png 150w, https://stunited.vn/wp-content/uploads/2019/08/logo-1.png 205w" sizes="(max-width: 150px) 100vw, 150px" /> </a>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="partner-block">
+<div class="partner-logo">
+<a href="https://www.gitstart.com/">
+<img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2016/03/68730533_678381192676224_5237130520554373120_n-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://stunited.vn/wp-content/uploads/2016/03/68730533_678381192676224_5237130520554373120_n-150x150.png 150w, https://stunited.vn/wp-content/uploads/2016/03/68730533_678381192676224_5237130520554373120_n.png 256w" sizes="(max-width: 150px) 100vw, 150px" /> </a>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="partner-block">
+<div class="partner-logo">
+<a href="https://www.flexidata.vn/">
+<img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2016/03/logo700px-duongban-01-1-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://stunited.vn/wp-content/uploads/2016/03/logo700px-duongban-01-1-150x150.png 150w, https://stunited.vn/wp-content/uploads/2016/03/logo700px-duongban-01-1-300x300.png 300w, https://stunited.vn/wp-content/uploads/2016/03/logo700px-duongban-01-1-768x768.png 768w, https://stunited.vn/wp-content/uploads/2016/03/logo700px-duongban-01-1-1024x1024.png 1024w, https://stunited.vn/wp-content/uploads/2016/03/logo700px-duongban-01-1-350x350.png 350w, https://stunited.vn/wp-content/uploads/2016/03/logo700px-duongban-01-1-480x480.png 480w, https://stunited.vn/wp-content/uploads/2016/03/logo700px-duongban-01-1.png 1272w" sizes="(max-width: 150px) 100vw, 150px" /> </a>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="partner-block">
+<div class="partner-logo">
+<a href="https://www.facebook.com/codecompletevietnam/">
+<img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2019/08/codecomplete-logo-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://stunited.vn/wp-content/uploads/2019/08/codecomplete-logo-150x150.png 150w, https://stunited.vn/wp-content/uploads/2019/08/codecomplete-logo.png 300w" sizes="(max-width: 150px) 100vw, 150px" /> </a>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="partner-block">
+<div class="partner-logo">
+<a href="https://synova-solutions.com/">
+<img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2019/08/Synova-Logo-WebRetina-w-018-1-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://stunited.vn/wp-content/uploads/2019/08/Synova-Logo-WebRetina-w-018-1-150x150.png 150w, https://stunited.vn/wp-content/uploads/2019/08/Synova-Logo-WebRetina-w-018-1.png 206w" sizes="(max-width: 150px) 100vw, 150px" /> </a>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="partner-block">
+<div class="partner-logo">
+<a href="https://www.hollows.org">
+<img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2016/03/b4cbe5b535d3de27d3835854cb64b56d-1165x550-c-center-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://stunited.vn/wp-content/uploads/2016/03/b4cbe5b535d3de27d3835854cb64b56d-1165x550-c-center-1-150x150.jpg 150w, https://stunited.vn/wp-content/uploads/2016/03/b4cbe5b535d3de27d3835854cb64b56d-1165x550-c-center-1-300x300.jpg 300w, https://stunited.vn/wp-content/uploads/2016/03/b4cbe5b535d3de27d3835854cb64b56d-1165x550-c-center-1.jpg 600w, https://stunited.vn/wp-content/uploads/2016/03/b4cbe5b535d3de27d3835854cb64b56d-1165x550-c-center-1-350x350.jpg 350w, https://stunited.vn/wp-content/uploads/2016/03/b4cbe5b535d3de27d3835854cb64b56d-1165x550-c-center-1-480x480.jpg 480w" sizes="(max-width: 150px) 100vw, 150px" /> </a>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="partner-block">
+<div class="partner-logo">
+<a href="http://www.alacartedanangbeach.com/">
+<img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2019/08/26170224_2060251644219912_7814952797271844429_o-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://stunited.vn/wp-content/uploads/2019/08/26170224_2060251644219912_7814952797271844429_o-150x150.jpg 150w, https://stunited.vn/wp-content/uploads/2019/08/26170224_2060251644219912_7814952797271844429_o-300x300.jpg 300w, https://stunited.vn/wp-content/uploads/2019/08/26170224_2060251644219912_7814952797271844429_o.jpg 600w, https://stunited.vn/wp-content/uploads/2019/08/26170224_2060251644219912_7814952797271844429_o-350x350.jpg 350w, https://stunited.vn/wp-content/uploads/2019/08/26170224_2060251644219912_7814952797271844429_o-480x480.jpg 480w" sizes="(max-width: 150px) 100vw, 150px" /> </a>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="partner-block">
+<div class="partner-logo">
+<a href="https://zendiamondsuites.com/">
+<img width="150" height="150" src="https://stunited.vn/wp-content/uploads/2019/08/Logo.ZenDiamondSuites12-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://stunited.vn/wp-content/uploads/2019/08/Logo.ZenDiamondSuites12-150x150.jpg 150w, https://stunited.vn/wp-content/uploads/2019/08/Logo.ZenDiamondSuites12-300x300.jpg 300w, https://stunited.vn/wp-content/uploads/2019/08/Logo.ZenDiamondSuites12-768x768.jpg 768w, https://stunited.vn/wp-content/uploads/2019/08/Logo.ZenDiamondSuites12-350x350.jpg 350w, https://stunited.vn/wp-content/uploads/2019/08/Logo.ZenDiamondSuites12-480x480.jpg 480w, https://stunited.vn/wp-content/uploads/2019/08/Logo.ZenDiamondSuites12.jpg 900w" sizes="(max-width: 150px) 100vw, 150px" /> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div></div></div></div>
+</div> 
+</div> 
+<button class="scrolltop-btn back-top"><i class="fa fa-angle-up"></i></button>
+
+<footer id="footer-section">
+<div class="footer">
+<div class="container">
+<div class="row">
+<div class="col-md-4 col-sm-12 col-xs-12"><div id="nav_menu-4" class="footer-widget widget_nav_menu"><div class="widget-top"><h3 class="widget-title">MENU</h3></div><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-194 current_page_item menu-item-1535"><a href="https://stunited.vn/" aria-current="page">HOME</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1809"><a href="https://stunited.vn/st-software/">WHAT WE DO</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1849"><a href="https://stunited.vn/st-software/">ST SOFTWARE</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1850"><a href="https://stunited.vn/st-digital/">ST DIGITAL</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1853"><a href="https://stunited.vn/st-incubation/">ST INCUBATION</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1873"><a href="https://stunited.vn/who-we-are/">WHO WE ARE</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1864"><a href="https://stunited.vn/portfolio/">PORTFOLIO</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1868"><a href="https://stunited.vn/join-us/">JOIN US</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1537"><a href="https://stunited.vn/lets-talk/">LET&#8217;S TALK</a></li>
+</ul></div></div></div><div class="col-md-4 col-sm-12 col-xs-12"><div id="houzez_contact-3" class="footer-widget widget-contact"><div class="widget-top"><h3 class="widget-title">CONTACT US</h3></div>
+<div class="widget-body">
+<div class="contact_text">Nomad Space</div>
+<ul class="list-unstyled">
+<li><i class="fa fa-location-arrow"></i> 14 An Thuong 18, Danang</li>
+<li><i class="fa fa-phone"></i> Call us +84 905 610 229</li>
+<li><i class="fa fa-envelope-o"></i> <a href="/cdn-cgi/l/email-protection#5f363139301f2c2b3b2c30392b283e2d3a713c3032"><span class="__cf_email__" data-cfemail="c3aaada5ac83b0b7a7b0aca5b7b4a2b1a6eda0acae">[email&#160;protected]</span></a></li>
+</ul>
+</div>
+</div></div><div class="col-md-4 col-sm-12 col-xs-12"><div id="houzez_facebook-3" class="footer-widget widget_houzez_facebook"> <div class="fb-page" data-href="https://www.facebook.com/stunited.vn" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
+<div class="fb-xfbml-parse-ignore">
+</div>
+</div>
+</div></div> </div>
+</div>
+</div>
+<div class="footer-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-3 col-sm-3">
+<div class="footer-col">
+<p>Copyright © 2019 by ST United.</p>
+</div>
+</div>
+<div class="col-md-6 col-sm-6">
+<div class="footer-col">
+<div class="navi">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<link href="https://fonts.googleapis.com/css?family=Cabin:700%7CRoboto:100%2C400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+		if(typeof revslider_showDoubleJqueryError === "undefined") {
+			function revslider_showDoubleJqueryError(sliderID) {
+				var err = "<div class='rs_error_message_box'>";
+				err += "<div class='rs_error_message_oops'>Oops...</div>";
+				err += "<div class='rs_error_message_content'>";
+				err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+				err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' ->  'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+				err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+				err += "</div>";
+			err += "</div>";
+				jQuery(sliderID).show().html(err);
+			}
+		}		</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/stunited.vn\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://stunited.vn/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4'></script>
+<script type='text/javascript' src='https://stunited.vn/wp-content/themes/houzez/js/bootstrap.min.js?ver=3.3.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var hz_plugin = {"rating_terrible":"Terrible","rating_poor":"Poor","rating_average":"Average","rating_vgood":"Very Good","rating_exceptional":"Exceptional"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://stunited.vn/wp-content/themes/houzez/js/plugins.js?ver=1.8.2.1'></script>
+<script type='text/javascript' src='https://stunited.vn/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://stunited.vn/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://stunited.vn/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://stunited.vn/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://stunited.vn/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HOUZEZ_ajaxcalls_vars = {"admin_url":"https:\/\/stunited.vn\/wp-admin\/","houzez_rtl":"no","redirect_type":"same_page","login_redirect":"https:\/\/stunited.vn","login_loading":"Sending user info, please wait...","direct_pay_text":"Processing, Please wait...","user_id":"0","transparent_menu":"yes","simple_logo":"https:\/\/stunited.vn\/wp-content\/uploads\/2019\/09\/stunited-e15650013362301.png","retina_logo":"https:\/\/stunited.vn\/wp-content\/uploads\/2019\/09\/stunited-e15650013362301.png","retina_logo_mobile":"https:\/\/stunited.vn\/wp-content\/uploads\/2019\/09\/stunited-e15650013362301.png","retina_logo_mobile_splash":"https:\/\/stunited.vn\/wp-content\/uploads\/2019\/09\/stunited-e15650013362301.png","retina_logo_splash":"https:\/\/stunited.vn\/wp-content\/uploads\/2019\/09\/stunited-e15650013362301.png","retina_logo_height":"24","retina_logo_width":"140","property_lat":"","property_lng":"","property_map":"","property_map_street":"","is_singular_property":"","process_loader_refresh":"fa fa-spin fa-refresh","process_loader_spinner":"fa fa-spin fa-spinner","process_loader_circle":"fa fa-spin fa-circle-o-notch","process_loader_cog":"fa fa-spin fa-cog","success_icon":"fa fa-check","set_as_featured":"Set as Featured","remove_featured":"Remove From Featured","prop_featured":"Featured","featured_listings_none":"You have used all the \"Featured\" listings in your package.","prop_sent_for_approval":"Sent for Approval","paypal_connecting":"Connecting to paypal, Please wait... ","mollie_connecting":"Connecting to mollie, Please wait... ","confirm":"Are you sure you want to delete?","confirm_featured":"Are you sure you want to make this a featured listing?","confirm_featured_remove":"Are you sure you want to remove from featured listing?","confirm_relist":"Are you sure you want to relist this property?","delete_property":"Processing, please wait...","delete_confirmation":"Are you sure you want to delete?","not_found":"We didn't find any results","for_rent":"for-rent","for_rent_price_range":"for-rent","currency_symbol":"$","advanced_search_widget_min_price":"200","advanced_search_widget_max_price":"2500000","advanced_search_min_price_range_for_rent":"50","advanced_search_max_price_range_for_rent":"25000","advanced_search_widget_min_area":"10","advanced_search_widget_max_area":"6000","advanced_search_price_slide":"1","fave_page_template":"template-homepage.php","google_map_style":"","googlemap_default_zoom":"12","googlemap_pin_cluster":"","googlemap_zoom_cluster":"12","map_icons_path":"https:\/\/stunited.vn\/wp-content\/themes\/houzez\/images\/map\/","infoboxClose":"https:\/\/stunited.vn\/wp-content\/themes\/houzez\/images\/map\/close.png","clusterIcon":"http:\/\/stunited.vn\/wp-content\/themes\/houzez\/images\/map\/cluster-icon.png","marker_spiderfier":"0","google_map_needed":"","paged":"1","search_result_page":"normal_page","search_keyword":"","search_country":"","search_state":"","search_city":"","search_feature":"","search_area":"","search_status":"","search_label":"","search_type":"","search_bedrooms":"","search_bathrooms":"","search_min_price":"","search_max_price":"","search_currency":"","search_min_area":"","search_max_area":"","search_property_id":"","search_publish_date":"","search_no_posts":"10","search_location":"","use_radius":"on","search_lat":"","search_long":"","search_radius":"","transportation":"Transportation","supermarket":"Supermarket","schools":"Schools","libraries":"Libraries","pharmacies":"Pharmacies","hospitals":"Hospitals","sort_by":"","measurement_updating_msg":"Updating, Please wait...","autosearch_text":"Searching...","currency_updating_msg":"Updating Currency, Please wait...","currency_position":"before","submission_currency":"USD","wire_transfer_text":"To be paid","direct_pay_thanks":"Thank you. Please check your email for payment instructions.","direct_payment_title":"Direct Payment Instructions","direct_payment_button":"SEND ME THE INVOICE","direct_payment_details":"","measurement_unit":"sqft","header_map_selected_city":[],"thousands_separator":",","current_tempalte":"template\/template-homepage.php","monthly_payment":"Monthly Payment","weekly_payment":"Weekly Payment","bi_weekly_payment":"Bi-Weekly Payment","compare_button_url":"","template_thankyou":"https:\/\/stunited.vn\/","compare_page_not_found":"Please create page using compare properties template","property_detail_top":"v1","keyword_search_field":"prop_address","keyword_autocomplete":"0","houzez_date_language":"","houzez_default_radius":"50","enable_radius_search":"0","enable_radius_search_halfmap":"1","houzez_primary_color":"#00AEEF","geo_country_limit":"0","geocomplete_country":"","houzez_logged_in":"no","ipinfo_location":"0","gallery_autoplay":"1","banner_slider_autoplay":"1","banner_slider_loop":"1","banner_slider_autoplayspeed":"5000","stripe_page":"https:\/\/stunited.vn\/","twocheckout_page":"https:\/\/stunited.vn\/","custom_fields":"[]","markerPricePins":"no","houzez_reCaptcha":"0","houzez_map_system":"osm","is_mapbox":"osm","api_mapbox":"","is_marker_cluster":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://stunited.vn/wp-content/themes/houzez/js/houzez_ajax_calls.min.js?ver=1.8.2.1'></script>
+<script type='text/javascript' src='https://stunited.vn/wp-content/themes/houzez/js/custom.min.js?ver=1.8.2.1'></script>
+<script type='text/javascript' src='https://stunited.vn/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.0.4'></script>
+<script type='text/javascript' src='https://stunited.vn/wp-includes/js/wp-embed.min.js?ver=5.2.2'></script>
+<script type='text/javascript' src='https://stunited.vn/wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min.js?ver=6.0.4'></script>
+</body>
+</html>
+ 
